@@ -3,8 +3,10 @@ I needed a way to call this stuff from Python; `edge_boxes.py` and `edge_boxes_w
 Sergey Karayev's [Selective Search IJCV with Python](https://github.com/sergeyk/selective_search_ijcv_with_python) code, which wraps an alternative object-proposal generator.
 
 Make sure that the edges directory is in your PYTHONPATH and just do:
-    import edges
-    windows = edge_boxes.get_windows(image_filenames)
+
+	import edges
+	
+	windows = edge_boxes.get_windows(image_filenames)
 
 To make sure this works, simply `python edge_boxes.py`.
 
