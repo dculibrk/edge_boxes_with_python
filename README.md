@@ -19,3 +19,5 @@ Enjoy!
 
 Dubravko Culibrk
 22 Jul 2015
+
+P.S. Please note that the code uses Piotr's MATLAB toolbox (https://pdollar.github.io/toolbox/), which needs to be installed for any of this to work. (Thanks to Thomas Lau for pointing out that this should be stated in this README).
